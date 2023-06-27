@@ -1,5 +1,6 @@
-django=3.2.7
+django==3.2.7
 telebot
 requests
-os
+environ
 djangorestframework
+django-environ
